@@ -34,7 +34,8 @@ Your app is ready to be deployed!
 
 ### Deployment
 
-The project has been deployed to Netlify. You can access it [here]([(https://664a1e22d8a3d0cf836cbf03--amazing-lamington-bee771.netlify.app/)).
+The project has been deployed to Netlify. You can access it !
+[here](https://664a1e22d8a3d0cf836cbf03--amazing-lamington-bee771.netlify.app/).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
